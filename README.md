@@ -1,23 +1,28 @@
+
+---
+
+
 # 🤖 AI-Driven Construction Management Tool – Case Study
 
 ## Overview
 
-This repository contains a **case study** of an AI-driven construction management platform developed for a company.
-The original source code is private and cannot be shared due to confidentiality and IP restrictions.
+This repository documents a **case study** of an AI-powered construction management platform.  
+The production code belongs to the company and cannot be shared publicly.  
+This case study explains the **system design, features, and my role** in building the solution.
 
-The platform was designed to automate construction workflows, generate cost estimations, and produce reports using AI-powered insights.
+The platform automates construction workflows, cost estimation, and reporting using AI-driven insights.
 
 ---
 
 ## 🎯 Problem Statement
 
-Construction management often depends on manual processes, spreadsheets, and fragmented tools.
-The objective was to build a system that:
+Construction projects often rely on manual processes that are time-consuming and error-prone.  
+The goal was to:
 
-- Automates repetitive construction workflows
-- Uses AI to assist in cost estimation and reporting
-- Improves visibility across projects
-- Scales with growing project data
+- Automate workflows and reporting  
+- Provide cost estimation using AI  
+- Improve operational visibility  
+- Support scalable and secure data handling  
 
 ---
 
@@ -50,10 +55,11 @@ Client (Angular)
       |
 Backend (Node.js)
       |
-      | AI Processing Logic
+      | AI Processing
       |
 MongoDB
       |
-      | External Services
+      | External AI Services
       |
 OpenAI API
+
